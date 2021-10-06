@@ -8,9 +8,10 @@ namespace Day3.EsParolePalindrome
         {
             Console.WriteLine("la parola è palindroma?\n");
 
-            char[] parola = new char[] { 'o', 'r', 't', 'o' };
+            //char[] parola = new char[] { 'o', 'r', 't', 'o' };
             // char[] parola = new char[] { 'o', 't', 't', 'o' };
             //char[] parola = new char[] { 'w', 'o', 'w'};
+            char[] parola = new char[] { 'o', 'n', 'o', 'r','a','r','o','n','o' };
 
             int length = parola.Length;
 
